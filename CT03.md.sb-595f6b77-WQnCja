@@ -9,7 +9,6 @@
 ### Casos de Teste
 
 **Identificador único:** #T1
-
 **Objetivo:** Validar que o campo aceite preenchimento igual ao e-mail
 **Prioridade:** Alta
 **Rastreabilidade:** 
@@ -29,7 +28,6 @@ Ter o campo e-mail preenchido com: Joao.da.silva@gmail.com
 - - -
 
 **Identificador único:** #T2
-
 **Objetivo:** Validar que o campo não aceite preenchimento diferente ao e-mail
 **Prioridade:** Alta
 **Rastreabilidade:** 
